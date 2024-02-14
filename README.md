@@ -14,8 +14,8 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, d
 
 ## Desain Program
 
-A. Class Dpr
--> Atribut : - ID - Nama - Nama Bidang - Nama Partai <br>
+A. Class Dpr <br>
+-> Atribut : <br> - ID <br>- Nama <br>- Nama Bidang <br>- Nama Partai <br>
 -> Constructor <br>
 -> Setter dan Getter <br>
 -> Methods : <br> - Menambahkan (tambah) <br> - Menampilkan (tampil) <br> - Mengubah (ubah) <br> - Menghapus (hapus) <br>
@@ -23,7 +23,7 @@ A. Class Dpr
 
 B. Main program <br>
 -> Instansiasi <br>
--> Output: <br> - loop menggunakan switch case
+-> Output: <br> - loop menggunakan switch case <br> - 5 menu pilihan <br>
 
 ## Dokumentasi dan Alur Program
 
