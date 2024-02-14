@@ -27,7 +27,7 @@ B. Main program <br>
 
 ## Dokumentasi dan Alur Program
 
-Untuk dokumentasi menggunakan screenshot, dan bahasa yang digunakan adalah bahasa C++. Saat menampilkan data semua bahasa kecuali C++ telah menggunakan table
+Untuk dokumentasi menggunakan screenshot, dan bahasa yang digunakan adalah bahasa C++. Saat menampilkan data, semua bahasa kecuali C++ telah menggunakan table
 
 Lalu, untuk penjelasan alur program
 
