@@ -15,15 +15,15 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, d
 ## Desain Program
 
 A. Class Dpr
--> Atribut : - ID - Nama - Nama Bidang - Nama Partai
--> Constructor
--> Setter dan Getter
--> Methods : - Menambahkan (tambah) - Menampilkan (tampil) - Mengubah (ubah) - Menghapus (hapus)
--> Destructor
+-> Atribut : - ID - Nama - Nama Bidang - Nama Partai <br>
+-> Constructor <br>
+-> Setter dan Getter <br>
+-> Methods : <br> - Menambahkan (tambah) <br> - Menampilkan (tampil) <br> - Mengubah (ubah) <br> - Menghapus (hapus) <br>
+-> Destructor <br>
 
-B. Main program
--> Instansiasi
--> Output: - loop menggunakan switch case
+B. Main program <br>
+-> Instansiasi <br>
+-> Output: <br> - loop menggunakan switch case
 
 ## Dokumentasi dan Alur Program
 
@@ -33,9 +33,9 @@ Lalu, untuk penjelasan alur program
 
 1. Compile file sesuai bahasa
 2. Run program
-3. Ketika program berhasil dijalankan, maka akan keluar sebuah menu yang berisi 5 pilihan yaitu:
-   3.1 tambah : yang berfungsi untuk menambahkan data dengan mengisi input yang dibutuhkan
-   3.2 tampil : yang berfungsi untuk menampilkan data yang ada
-   3.3 ubah : yang berfungsi untuk mengubah data
-   3.4 hapus : yang berfungsi untuk menghapus data
-   3.5 keluar : yang berfungsi untuk keluar dari program
+3. Ketika program berhasil dijalankan, maka akan keluar sebuah menu yang berisi 5 pilihan yaitu: <br>
+   3.1 tambah : yang berfungsi untuk menambahkan data dengan mengisi input yang dibutuhkan <br>
+   3.2 tampil : yang berfungsi untuk menampilkan data yang ada <br>
+   3.3 ubah : yang berfungsi untuk mengubah data <br>
+   3.4 hapus : yang berfungsi untuk menghapus data <br>
+   3.5 keluar : yang berfungsi untuk keluar dari program <br>
